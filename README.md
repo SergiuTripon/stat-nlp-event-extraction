@@ -1,6 +1,6 @@
 #### Statistical Natural Language Processing - Group Assignment 1 - Event Extraction
 
-This is first group assigment I completed as part of the Statistical Natural Language Processing module (MSc Web Science and Big Data Analytics) I undertook at UCL.
+This is first group assignment I completed as part of the Statistical Natural Language Processing module (MSc Web Science and Big Data Analytics) I undertook at UCL.
 
 Repository contents:
 
