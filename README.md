@@ -11,7 +11,7 @@ Repository contents:
 
 ---
 
-#####Assignment Brief
+##### Assignment Brief
 
 The tasks to be completed in this assignment were:
 
@@ -24,6 +24,6 @@ The tasks to be completed in this assignment were:
 
 ---
 
-####Instructions
+##### Instructions
 
 To run the source code, you have to manually set up a project in an IDE that supports Scala. For this assignment, IntelliJ IDEA IDE was used.
