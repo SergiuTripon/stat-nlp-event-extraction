@@ -2,12 +2,14 @@
 
 This is first group assignment I completed as part of the [COMPGI19 - Statistical Natural Language Processing](http://www.cs.ucl.ac.uk/teaching_learning/syllabus/mscml/gi19_statistical_natural_language_processing/) module (MSc Web Science and Big Data Analytics) which I undertook at UCL.
 
-Repository contents:
+---
+
+#### Repository contents:
 
 * Code folder consisting of the main source code in Scala
 * Data Analysis Flow consisting of screenshots from the Data Analysis process
 * Predictions folder consisting of prediction made
-* Report folder consisting of the final report in PDF format
+* [Assignment report]() in PDF format
 
 ---
 
