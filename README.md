@@ -4,6 +4,14 @@ This is the code of the first group assignment I completed as part of the [COMPG
 
 ---
 
+#### Group 24 Members
+
+* [Sergiu Tripon](https://github.com/SergiuTripon) | sergiu.tripon.15@ucl.ac.uk | MSc WSBDA (Web Science and Big Data Analytics)
+* [Santiago Gonzalez](https://github.com/santteegt) | hernan.toral.15@ucl.ac.uk | MSc WSBDA (Web Science and Big Data Analytics)
+* [Archie Norman](https://github.com/archienorman11) | archie.norman.15@ucl.ac.uk | MSc WSBDA (Web Science and Big Data Analytics)
+
+---
+
 #### Repository contents
 
 * Code folder consisting of the main source code in Scala
