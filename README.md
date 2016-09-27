@@ -1,4 +1,4 @@
-### Statistical Natural Language Processing - Group Assignment 1 - Event Extraction
+### Statistical Natural Language Processing - Event Extraction - Group Assignment 1 Code
 
 This is first group assignment I completed as part of the [COMPGI19 - Statistical Natural Language Processing](http://www.cs.ucl.ac.uk/teaching_learning/syllabus/mscml/gi19_statistical_natural_language_processing/) module (MSc Web Science and Big Data Analytics) which I undertook at UCL.
 
