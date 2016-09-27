@@ -4,12 +4,12 @@ This is first group assignment I completed as part of the [COMPGI19 - Statistica
 
 ---
 
-#### Repository contents:
+#### Repository contents
 
 * Code folder consisting of the main source code in Scala
 * Data Analysis Flow consisting of screenshots from the Data Analysis process
 * Predictions folder consisting of prediction made
-* [Assignment report]() in PDF format
+* [Assignment report](https://github.com/SergiuTripon/stat-nlp-event-extraction/blob/master/report/compm083_report_group_24.pdf) in PDF format
 
 ---
 
